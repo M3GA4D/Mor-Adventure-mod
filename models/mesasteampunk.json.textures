@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pataschika",
+        "1": "patasgrandes",
+        "2": "tambladesteampunk"
+      },
+      "name": "default"
+    }
+  }
+}
